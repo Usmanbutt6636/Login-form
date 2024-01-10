@@ -1,0 +1,76 @@
+body {
+    
+    background-image: url(/img/marek-piwnicki-4ppwzPEr7OI-unsplash.jpg);
+    background-size: cover;
+}
+
+.container {
+    border: 2px solid grey;
+    border-radius: 10px;
+    width: 400px;
+    height: 400px;
+    margin: 180px auto;
+}
+
+.container p {
+    text-align: center;
+    color: white;
+    font-size: 24px;
+    /* background-color: aqua; */
+
+}
+
+.kami {
+    color: white;
+    padding: 11px 2px;
+    margin: 6px 2px;
+    font-size: 24px;
+}
+
+.container input {
+    width: 80%;
+
+    padding: 13px 10px;
+    border-radius: 10px;
+    margin: -7px 30px;
+    background-color: skyblue;
+    
+}
+.btn {
+background-color: grey;
+width: 85%;
+padding: 13px 10px;
+border-radius: 7px;
+margin: 32px 35px ;
+color: rgb(1, 206, 242);
+font-size: 14px;
+cursor: pointer;
+}
+.new p {
+text-decoration: underline;
+font-size: 23px;
+margin: -21px;
+text-align: left;
+padding: 9px 53px;
+}
+.new p a{
+color: white;
+}
+.new p :hover{
+color: grey;
+
+}
+.p{
+display: block;
+width: 137%;
+MARGIN: 110PX 411PX;
+PADDING: 9PX 0PX;
+background-color: LIGHTGREEN;
+}
+.L{
+background-color: #ca656ae8; ;
+DISPLAY: BLOCK;
+PADDING: 4PX;
+MARGIN: 19PX AUTO;
+WIDTH: 124PX;
+}
